@@ -39,4 +39,3 @@ motorcycles.remove('ducati')
 print(motorcycles)
 
 
-Removendo um elemento por valor 102
